@@ -2,7 +2,7 @@
 
 获取方法
 
-安装git
+安装git：
   install git client
 
 命令行：
