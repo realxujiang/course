@@ -1,11 +1,15 @@
 # course
+ Welcome to the Hadoop world，There is the most authoritative course!
+  - Season One: Enterprise SQL-on-Hadoop Solution 
 
-# 获取方法
+# Enterprise_Hadoop_Solutions
 
-## 安装git：install git client
+- git：install git client
 
-## 命令行：git clone git@github.com:itweet/course.git
+- git clone：git@github.com:itweet/course.git
 
-## 视频观看地址：http://www.tudou.com/home/sparkjvm/
+- BaiduYun: http://pan.baidu.com/s/1dDnpT6p rg03
 
-## 博客地址：http://www.itweet.cn/
+- Video：http://www.tudou.com/home/sparkjvm/
+
+- Blog：http://www.itweet.cn/
