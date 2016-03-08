@@ -7,11 +7,15 @@
 
 - git clone：git@github.com:itweet/course.git
 
-- BaiduYun: http://pan.baidu.com/s/1dDnpT6p rg03
+- 微博：http://weibo.com/sparkjvm
+
+- 百度云: http://pan.baidu.com/s/1dDnpT6p rg03
 
 - Video：http://www.tudou.com/home/sparkjvm/
 
 - Blog：http://www.itweet.cn/
+
+
 
 # course
 ```
