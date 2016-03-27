@@ -3,9 +3,9 @@
 
 # Enterprise_Hadoop_Solutions
 
-- git：install git client
+- Mac os X：brew install git
 
-- git clone：git@github.com:itweet/course.git
+- command: git clone git@github.com:itweet/course.git
 
 - 微博：http://weibo.com/sparkjvm
 
